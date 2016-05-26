@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\myDeveloperWorkspace\\AndroidStudio\\g_2048\\app\\build\\intermediates\\res\\merged\\debug\\layout\\register.xml",
+        "source": "D:\\myDeveloperWorkspace\\AndroidStudio\\g_2048\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "D:\\myDeveloperWorkspace\\AndroidStudio\\g_2048\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "D:\\myDeveloperWorkspace\\AndroidStudio\\g_2048\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "D:\\myDeveloperWorkspace\\AndroidStudio\\g_2048\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\myDeveloperWorkspace\\AndroidStudio\\g_2048\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
